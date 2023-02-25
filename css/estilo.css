@@ -442,3 +442,69 @@ ul li a {
     }
     
     /* Fin Footer de Contacto */
+
+
+/* *********** ESTILO DE PROMOCIONES ************** */
+
+
+.infoprom {
+    height: 250px;
+    display: flex;
+    border-top: 2px black solid;
+    padding: 50px;
+    background-image: url(https://img.freepik.com/fotos-premium/textura-pared-ladrillo-blanco-moderno-fondo-fondo-diseno-abstracto_135735-301.jpg?w=1380);
+    justify-content: center;
+}
+
+.contenedorprom {
+    margin-top: -120px;
+}
+
+
+
+.imgprom {
+    width: 300px;
+    height: 300px;
+    background-image: url(../img/promolunes.jpg);
+    background-size: cover;
+    border-radius: 100%;
+    margin-top: 200px;
+    margin-bottom: 120px;
+    
+
+   
+}
+.imgprom2 {
+    width: 300px;
+    height: 300px;
+    background-image: url(../img/promomiercolesadomingo.jpg);
+    background-size: cover;
+    border-radius: 100%;
+    margin-top: 200px;
+    margin-bottom: 120px;
+
+}
+
+.imgprom3 {
+    width: 300px;
+    height: 300px;
+    background-image: url(../img/promotarjeta.jpg);
+    background-size: cover;
+    border-radius: 100%;
+    margin-top: 200px;
+    margin-bottom: 120px;
+
+   
+}
+
+.imgprom4 {
+    width: 300px;
+    height: 300px;
+    background-image: url(../img/promocolordia.png);
+    background-size: cover;
+    border-radius: 100%;
+    margin-top: 200px;
+    margin-bottom: 120px;
+}
+
+
