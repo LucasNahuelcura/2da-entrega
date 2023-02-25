@@ -379,10 +379,17 @@ ul li a {
 }
 
 .btn {
-    color:  black;
     background-color: black;
+    color:#EECCC7;
+    font-weight: bold;
 }
+.btn:hover {
 
+    background-color:#EECCC7;
+    color: black;
+    font-weight: bold;
+
+}
 
 
 
