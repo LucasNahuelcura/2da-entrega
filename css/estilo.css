@@ -63,7 +63,7 @@ body {
 
     display: flex;
     justify-content: space-evenly;
-    
+
 
 }
 
@@ -174,7 +174,7 @@ h3 {
     color: black;
     margin-top: 60px;
     text-align: center;
-    
+
 }
 
 ul {
@@ -230,6 +230,7 @@ ul li a {
     justify-content: center;
 
 }
+
 .contenedors {
     margin-top: -120px;
 }
@@ -244,8 +245,9 @@ ul li a {
     margin-top: 200px;
     margin-bottom: 120px;
 
-   
+
 }
+
 .imgser2 {
     width: 300px;
     height: 300px;
@@ -266,7 +268,7 @@ ul li a {
     margin-top: 200px;
     margin-bottom: 120px;
 
-   
+
 }
 
 .imgser4 {
@@ -291,7 +293,7 @@ ul li a {
 /* Footer de Servicios */
 
 .footerser {
-margin-top: 120px;
+    margin-top: 120px;
     border-top: 3px solid black;
     border-bottom: 3px solid black;
     background-color: #EECCC7;
@@ -302,7 +304,7 @@ h3 {
     color: black;
     margin-top: 60px;
     text-align: center;
-    
+
 }
 
 ul {
@@ -356,6 +358,7 @@ ul li a {
     justify-content: center;
 
 }
+
 .contenedorcont {
     margin-top: -120px;
 }
@@ -363,85 +366,87 @@ ul li a {
 /* FOMRMULARIO */
 
 .form-group {
- display: flex;
- justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
-.col-md-6{
-    display:-ms-flexbox;
+.col-md-6 {
+    display: -ms-flexbox;
     justify-content: center;
-    
+
 }
 
 .textoc {
     text-align: left;
-    
+
 }
 
 .btn {
     background-color: black;
-    color:#EECCC7;
+    color: #EECCC7;
     font-weight: bold;
 }
+
 .btn:hover {
 
-    background-color:#EECCC7;
+    background-color: #EECCC7;
     color: black;
     font-weight: bold;
 
 }
+
 /* footer de contacto */
 
 .footercont {
     margin-top: 120px;
-        border-top: 3px solid black;
-        border-bottom: 3px solid black;
-        background-color: #EECCC7;
-    
-    }
-    
-    h3 {
-        color: black;
-        margin-top: 60px;
-        text-align: center;
-        
-    }
-    
-    ul {
-        display: flex;
-        justify-content: space-between;
-        font-size: 20px;
-        padding: 20px;
-    }
-    
-    ul li {
-        list-style: none;
-        display: inline-block;
-    
-    }
-    
-    ul li a {
-        text-decoration: none;
-        color: black;
-        text-transform: uppercase;
-        font-weight: bold;
-        margin: 30px;
-    
-    }
-    
-    .redes {
-    
-        margin-top: 40px;
-        display: flex;
-        justify-content: space-evenly;
-    }
-    
-    .redes a {
-        color: black;
-    
-    }
-    
-    /* Fin Footer de Contacto */
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: #EECCC7;
+
+}
+
+h3 {
+    color: black;
+    margin-top: 60px;
+    text-align: center;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 20px;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 30px;
+
+}
+
+.redes {
+
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.redes a {
+    color: black;
+
+}
+
+/* Fin Footer de Contacto */
 
 
 /* *********** ESTILO DE PROMOCIONES ************** */
@@ -463,46 +468,51 @@ ul li a {
 
 
 .imgprom {
-    width: 300px;
+    width: 400px;
     height: 300px;
     background-image: url(../img/promolunes.jpg);
     background-size: cover;
-    border-radius: 100%;
+    background-position: center;
+    border-radius: 120%;
     margin-top: 200px;
     margin-bottom: 120px;
-    
 
-   
+
+
 }
+
 .imgprom2 {
-    width: 300px;
+    width: 400px;
     height: 300px;
     background-image: url(../img/promomiercolesadomingo.jpg);
     background-size: cover;
-    border-radius: 100%;
+    background-position:center;
+    border-radius: 120%;
     margin-top: 200px;
     margin-bottom: 120px;
 
 }
 
 .imgprom3 {
-    width: 300px;
+    width: 400px;
     height: 300px;
     background-image: url(../img/promotarjeta.jpg);
     background-size: cover;
-    border-radius: 100%;
+    background-position: center;
+    border-radius: 120%;
     margin-top: 200px;
     margin-bottom: 120px;
 
-   
+
 }
 
 .imgprom4 {
-    width: 300px;
+    width: 400px;
     height: 300px;
     background-image: url(../img/promocolordia.png);
     background-size: cover;
-    border-radius: 100%;
+    background-position: center;
+    border-radius: 120%;
     margin-top: 200px;
     margin-bottom: 120px;
 }
@@ -511,51 +521,51 @@ ul li a {
 
 .footerprom {
     margin-top: 120px;
-        border-top: 3px solid black;
-        border-bottom: 3px solid black;
-        background-color: #EECCC7;
-    
-    }
-    
-    h3 {
-        color: black;
-        margin-top: 60px;
-        text-align: center;
-        
-    }
-    
-    ul {
-        display: flex;
-        justify-content: space-between;
-        font-size: 20px;
-        padding: 20px;
-    }
-    
-    ul li {
-        list-style: none;
-        display: inline-block;
-    
-    }
-    
-    ul li a {
-        text-decoration: none;
-        color: black;
-        text-transform: uppercase;
-        font-weight: bold;
-        margin: 30px;
-    
-    }
-    
-    .redes {
-    
-        margin-top: 40px;
-        display: flex;
-        justify-content: space-evenly;
-    }
-    
-    .redes a {
-        color: black;
-    
-    }
-    
-    /* Fin Footer de Promociones */
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: #EECCC7;
+
+}
+
+h3 {
+    color: black;
+    margin-top: 60px;
+    text-align: center;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 20px;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 30px;
+
+}
+
+.redes {
+
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.redes a {
+    color: black;
+
+}
+
+/* Fin Footer de Promociones */
