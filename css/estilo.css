@@ -367,10 +367,14 @@ ul li a {
  justify-content: center;
 }
 
-
+.col-md-6{
+    display:-ms-inline-flexbox;
+    justify-content: center;
+    
+}
 
 .textoc {
-    text-align: center;
+    text-align: left;
     
 }
 
