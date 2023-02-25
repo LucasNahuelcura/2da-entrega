@@ -368,7 +368,7 @@ ul li a {
 }
 
 .col-md-6{
-    display:-ms-inline-flexbox;
+    display:-ms-flexbox;
     justify-content: center;
     
 }
@@ -377,6 +377,8 @@ ul li a {
     text-align: left;
     
 }
+
+
 
 .dm {
     width: 700px;
