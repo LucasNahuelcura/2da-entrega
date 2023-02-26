@@ -71,7 +71,7 @@ body {
 .imgs {
     width: 300px;
     height: 300px;
-    background-image: url(/img/imagen1.png);
+    background-image: url(../img/imagen1.png);
     background-size: cover;
     border-radius: 100%;
     margin-top: 200px;
@@ -84,7 +84,7 @@ body {
 .imgs2 {
     width: 300px;
     height: 300px;
-    background-image: url(/img/imagen2.png);
+    background-image: url(../img/imagen2.png);
     background-size: cover;
     border-radius: 100%;
     margin-top: 200px;
@@ -95,7 +95,7 @@ body {
 .imgs3 {
     width: 300px;
     height: 300px;
-    background-image: url(/img/imagen3.png);
+    background-image: url(../img/imagen3.png);
     background-size: cover;
     border-radius: 100%;
     margin-top: 200px;
@@ -106,7 +106,7 @@ body {
 .imgs4 {
     width: 300px;
     height: 300px;
-    background-image: url(/img/imagen4.png);
+    background-image: url(../img/imagen4.png);
     background-size: cover;
     border-radius: 100%;
     margin-top: 200px;
