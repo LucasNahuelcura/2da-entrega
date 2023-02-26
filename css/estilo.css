@@ -597,12 +597,86 @@ ul li a {
 }
 
 
+/* .tituloturnos {
+    margin-top: 100px;
+    padding: 20px;
+    width: 1000px;
+    background-color: black;
+}
+.titulologo{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.texth1{
+    color: white;
+}
+
+.btnmensaje{
+    margin-top: 100px;
+    margin-left: 400px;
+    width: 200px;
+    background-color: green;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+.btnwhatsapp{
+    color: white;
+    font-weight: bold;
+   } */
+
+
+
+
+
+
 .tittur {
-        
-    width: 60%;
-    height: 14%;
+    width: 1100px;
+    background-color: black;
+    padding: 40 40 40 40;
+    padding-bottom: 40px;
+}
+.btn{
+    margin-top: 100px;
+    margin-left: 400px;
+    width: 200px;
+    background-color: green;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+.btn{
+    color: white;
+    font-weight: bold;
+   } */
+
+
+
+    /* width: 60%;
+    height: 15%;
     background-color: black;
     font-weight: bold;
     text-align: center;
-    color: white;
+    color: white; */
+
+
+/* .btnwhatsapp{
+    margin-top: 100px;
+    margin-left: 400px;
+    width: 200px;
+    background-color: green;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
 }
+
+.btnwhatsapp{
+    color: white;
+    font-weight: bold;
+   } */
