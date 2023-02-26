@@ -569,3 +569,29 @@ ul li a {
 }
 
 /* Fin Footer de Promociones */
+
+
+
+
+/* *********** ESTILO DE TURNOS ************** */
+
+
+.infotur {
+    height: 250px;
+    display: flex;
+    border-top: 2px black solid;
+    padding: 50px;
+    background-image: url(https://img.freepik.com/fotos-premium/textura-pared-ladrillo-blanco-moderno-fondo-fondo-diseno-abstracto_135735-301.jpg?w=1380);
+    justify-content: center;
+
+}
+
+.contenedortur {
+    margin-top: -120px;
+}
+
+.imgtur {
+    height: 1000px;
+    background-image: url(../img/h2.jpg);
+    background-size: cover;
+}
