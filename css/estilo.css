@@ -595,3 +595,14 @@ ul li a {
     background-image: url(../img/h2.jpg);
     background-size: cover;
 }
+
+
+.tittur {
+        
+    width: 60%;
+    height: 14%;
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
