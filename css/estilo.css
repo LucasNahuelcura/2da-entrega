@@ -594,11 +594,14 @@ ul li a {
     height: 1000px;
     background-image: url(../img/h2.jpg);
     background-size:cover;
+    
  
 }
 
 .texth1 {
     padding-top: 10%;
+    font-weight: bold;
+    
 }
 
 .btnmensaje{
